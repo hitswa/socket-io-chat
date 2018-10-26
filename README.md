@@ -1,5 +1,8 @@
+## SocketIO Chat ##
+
+
 to install dependencies run
-npm i
+**npm i**
 
 to start the application run
-npm start
+**npm start**
